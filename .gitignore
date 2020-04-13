@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# VSCode stuff
+.vscode/
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Environments
+env/
+
+# Data stuff
+*.xlsx
