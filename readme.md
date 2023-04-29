@@ -72,4 +72,4 @@ We welcome contributions to Athenium API. If you find any bugs or have any sugge
 
 ## License
 
-Athenium API is licensed under the MIT License. See `LICENSE` for more information.
+Athenium API is licensed under the MIT License. See [LICENSE](/LICENSE) for more information.
